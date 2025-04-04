@@ -1,6 +1,6 @@
 ### Olá! Eu sou Pedro Hernany, seja bem-vindo. 👋
 
-![Pedro Hernany GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrowhny&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrowhny&layout=donut-vertical)](https://github.com/pedrowhny/github-readme-stats)
 
 ### Tecnologias que utilizo.
 
